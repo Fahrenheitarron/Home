@@ -156,6 +156,10 @@ z-index: 999;
 	height:180px;
 }
 
+.col-sm-4{
+	margin-bottom: 30px;
+}
+
 /* End Feature CSS */
 
 /* Start Blog CSS */
